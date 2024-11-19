@@ -1,7 +1,5 @@
 # C# Tech WorkShop #1
 
-Welcome all.
-
 This repo is for a techworkshop only. 
 
 Quick introduction on csharp 
